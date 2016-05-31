@@ -1,0 +1,5 @@
+All codes go in here, separated by commas. For example:
+
+AJ32KJH23,JKHKS43FN,KJBKSDF43...
+
+All of this is sample text. Only the codes should be in this file when the bot is started.
